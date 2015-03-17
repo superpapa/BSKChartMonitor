@@ -1,0 +1,10 @@
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\bin\Debug\BSKChartMonitor.exe
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\bin\Debug\BSKChartMonitor.pdb
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.csprojResolveAssemblyReference.cache
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.Form1.resources
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.Properties.Resources.resources
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.csproj.GenerateResource.Cache
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.exe.licenses
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.exe
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.pdb
+D:\CPrjApp\BSKChartMonitor\BSKChartMonitor\obj\Debug\BSKChartMonitor.ucLogGrid.resources
